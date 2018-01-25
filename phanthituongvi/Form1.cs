@@ -20,6 +20,14 @@ namespace phanthituongvi
         {
             // đã thay đổi ở đây
             label1.Text = "Hiển thị ở đây!";
+            
+
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "Click2 !";
         }
     }
 }
